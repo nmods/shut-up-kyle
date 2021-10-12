@@ -1,0 +1,9 @@
+{
+	"files": {
+		"index.js": "d7fa004f47a46f0fa0e03d0f838095a197faa2008b98f664da3e22af71d44022",
+		"module.json": "8f8efffc6db35dc9ed6cb48048e4609dfaf2a89ea05f0963baf75ca94c003813"
+	},
+	"defs": {
+		"S_QUEST_BALLOON": 1
+	}
+}
